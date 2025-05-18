@@ -5,7 +5,7 @@ description: 3D Printers by HyperDrive Design
 
 # HyperDrive Design
 
-![HyperDrive Design Logo (image)](/assets/hyperdrive-design_logo.png)
+![HyperDrive Design Logo (image)](/assets/hyperdrive-design_banner.png)
 
 ## Galaxy printers
 
